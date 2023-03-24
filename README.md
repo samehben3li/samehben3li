@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samehben3li
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning MERN STACK
-- 📫 How to reach me at mail samehbenali69@gmail.com/ben3li.sameh@gmail.com
+- 📫 How to reach me at mail sameh@ranadev.io
 
 <!---
 samehben3li/samehben3li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
