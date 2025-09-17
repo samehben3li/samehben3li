@@ -8,7 +8,7 @@ MERN Stack Developer | React Native Enthusiast | Problem Solver
 
 I'm a passionate **web & mobile developer** who loves building interactive, user-friendly, and scalable applications. With hands-on experience in the **MERN stack** (MongoDB, Express, React, Node.js), I focus on writing clean, maintainable code and delivering impactful solutions.
 
-* 🔭 Currently working on **React Native iOS applications**
+* 🔭 Currently working as a **Fullstack Developer**
 * 🌱 Exploring advanced **backend integrations** & **cloud automation**
 * ⚡ Strong focus on **performance optimization** and **real-time systems**
 * 💡 Always learning and experimenting with new technologies
