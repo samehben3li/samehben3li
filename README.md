@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sameh Benali
 
-MERN Stack Developer | React Native Enthusiast | Problem Solver
+Fullstack Developer | MERN | React Native | Problem Solver
 
 ---
 
