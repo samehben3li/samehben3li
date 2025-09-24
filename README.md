@@ -43,6 +43,6 @@ Check out my repositories to explore more!
 
 ---
 
-✨ *"Code is like humor. When you have to explain it, it’s bad."* — Sameh Benali
+✨ Sameh Benali
 
 *Keywords for SEO: Sameh Benali, Fullstack Developer, MERN, React, Node.js, MongoDB, React Native, web developer, mobile developer, JavaScript, TypeScript, portfolio projects.*
