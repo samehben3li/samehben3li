@@ -38,7 +38,7 @@ Check out my repositories to explore more!
 
 * 📧 Email: **[sameh@ranadev.io](mailto:sameh@ranadev.io)**
 * 💼 LinkedIn: [https://www.linkedin.com/in/sameh-benali-9381191a7/](https://www.linkedin.com/in/sameh-benali-9381191a7/)
-* 🌐 Portfolio: **[https://samehben3li.netlify.app/](https://samehben3li.netlify.app/)**
+* 🌐 Portfolio: **[https://samehbenali.netlify.app/](https://samehbenali.netlify.app/)**
 * 🐙 GitHub: [github.com/samehben3li](https://github.com/samehben3li)
 
 ---
