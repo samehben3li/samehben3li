@@ -6,8 +6,7 @@ Fullstack Developer | MERN Stack | React Native | Web & Mobile Apps
 
 ## 🚀 About Me
 
-I'm **Sameh Benali**, a passionate **Fullstack Developer** who loves building interactive, scalable, and user-friendly web and mobile applications. With hands-on experience in the **MERN stack (MongoDB, Express, React, Node.js)**, I focus on writing clean, maintainable code and delivering impactful solutions.
-
+I'm **Sameh Benali**, an enthusiastic **Fullstack Developer** who enjoys turning ideas into interactive, scalable, and user-friendly web and mobile experiences. With solid hands-on experience in the **MERN stack (MongoDB, Express, React, Node.js)**, I focus on writing clean, maintainable code and building solutions that make a real impact. I love learning new technologies, solving challenging problems, and collaborating to bring great products to life.
 * 🔭 Currently working as a **Fullstack Developer**
 * 🌱 Exploring advanced **backend integrations**, **cloud automation**, and **real-time systems**
 * ⚡ Strong focus on **performance optimization**, **scalable architectures**, and **fullstack solutions**
